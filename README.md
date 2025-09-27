@@ -84,7 +84,7 @@ Open app: http://localhost:3000
 
 ---
 
-- 🧠 How LM Summary Works
+ ## 🧠 How LM Summary Works
 
 User input meeting notes → call LM API → generate short summary + action items
 
