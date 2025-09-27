@@ -14,30 +14,33 @@ with st.sidebar:
     )
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
-    **RANTAI PMS** adalah sistem manajemen properti modern yang dirancang untuk hotel, resort, dan properti hospitality lainnya. Platform ini mengintegrasikan seluruh aspek operasional—mulai dari reservasi, front desk, housekeeping, maintenance, hingga billing dan analytics—dalam satu sistem terpadu.
-
-    Dengan Rantai-PMS, pengelola properti bisa:
+    **ChainBoard** adalah mini project management app yang dirancang untuk produktivitas modern.
+    Dengan kanban-style task board, project management, dan meeting module yang dilengkapi AI-powered summary, ChainBoard memungkinkan tim (atau individu) untuk:
     
-    - Mengotomasi proses check-in/out dan manajemen kamar secara real-time.
+    - Mengelola task dan project secara realtime
     
-    - Meningkatkan efisiensi staf melalui mobile apps dan notifikasi otomatis.
+    - Memvisualisasikan alur kerja (workflow) dengan jelas
     
-    - Memperoleh data analitik lengkap untuk pengambilan keputusan berbasis performa.
+    - Mendokumentasikan meeting & action items secara otomatis
+    
+    - Menggabungkan konsep chain ala RANTAI untuk kolaborasi yang terhubung
+    
+    ChainBoard dibangun dengan filosofi lean & playful, sehingga mudah digunakan, ringan, tapi tetap powerful untuk belajar maupun bekerja.
     
     ---
     #### 🔮 Vision Statement
     
-    Visi kami adalah menjadi platform PMS terdepan yang mendukung operasional properti hospitality secara efisien, modern, dan berkelanjutan.
+    Visi ChainBoard adalah menjadi mini ClickUp yang cerdas, realtime, dan mudah diakses, yang:
 
-    Kami bertujuan untuk:
+    - Membantu individu & tim menyelesaikan pekerjaan lebih cepat dengan alur yang jelas
     
-    - Menjadi solusi end-to-end bagi pengelola properti dalam menghadapi tantangan operasional dan manajemen.
+    - Memanfaatkan AI untuk meringkas meeting dan action items, sehingga setiap keputusan lebih efektif
     
-    - Memberikan pengalaman tamu yang nyaman, cepat, dan personal melalui digitalisasi layanan.
+    - Memberikan realtime collaboration experience tanpa ribet backend, berkat integrasi PlaytimeDB
     
-    - Mendukung praktik hospitality berkelanjutan dengan monitoring energi, green compliance, dan pelaporan ESG.
+    - Menjadi ekosistem learning & productivity yang menginspirasi mahasiswa, pekerja kreatif, dan developer untuk belajar sekaligus produktif
     
-    - Mempermudah pengambilan keputusan bisnis melalui data analytics dan dashboard intuitif.
+    > Motto: “Link tasks, boost productivity, chain your actions!” 🔗
    
     ---
     ### 🧩 STC Ecosystem
@@ -51,7 +54,7 @@ with st.sidebar:
     7. [STC GasX](https://stc-gasx.streamlit.app/)
     8. [STC CarbonPrint](https://stc-carbonprint.streamlit.app/)
     9. [STC ImpactViz](https://stc-impactviz.streamlit.app/)
-    10. [DataHub](https://stc-data.streamlit.app/)
+    10. [STC IoT Connect](https://stc-connect.streamlit.app/)
 
     ---  
     ### ⛓ RANTAI Communities
@@ -77,6 +80,7 @@ with st.sidebar:
     6. [Cloud Carbon Footprint Tracker](https://rantai-greencloud.streamlit.app/)
     7. [Cloud.Climate.Chain](https://rantai-3c.streamlit.app/)
     8. [Property Management System](https://rantai-pms.streamlit.app/)
+    9. [DataHub](https://rantai-data.streamlit.app/)
     
     🌱 Lab → “Grow the chain”
     1. [BlockBook](https://blockbook.streamlit.app/)
